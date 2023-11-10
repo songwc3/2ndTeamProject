@@ -37,9 +37,6 @@ class AcademyApplicationTests {
 	@Autowired
 	private EmployeeRepository employeeRepository;
 
-//	@Autowired
-//	private EmployeeRepository employeeRepository;
-
 	@Autowired
 	private PasswordEncoder passwordEncoder;
 
